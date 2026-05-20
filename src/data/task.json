@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Next.js Portfolio",
+    "description": "Finish the portfolio website with responsive design and animations.",
+    "status": "In Progress",
+    "priority": "High",
+    "dueDate": "2026-05-25"
+  },
+  {
+    "id": 2,
+    "title": "Learn TypeScript Basics",
+    "description": "Practice interfaces, types, and generics in TypeScript.",
+    "status": "Pending",
+    "priority": "Medium",
+    "dueDate": "2026-05-28"
+  },
+  {
+    "id": 3,
+    "title": "Deploy Project to Vercel",
+    "description": "Deploy the latest project version and check production errors.",
+    "status": "Completed",
+    "priority": "High",
+    "dueDate": "2026-05-18"
+  },
+  {
+    "id": 4,
+    "title": "Build REST API",
+    "description": "Create a REST API using Express.js and MongoDB.",
+    "status": "Pending",
+    "priority": "High",
+    "dueDate": "2026-06-01"
+  },
+  {
+    "id": 5,
+    "title": "Practice React Hooks",
+    "description": "Learn useEffect, useContext, and custom hooks with examples.",
+    "status": "In Progress",
+    "priority": "Low",
+    "dueDate": "2026-05-30"
+  }
+]
