@@ -1,4 +1,5 @@
 import { Link, Button } from "@heroui/react";
+import ThemeSwitch from "./ThemeSwitch";
 
 const Navbar = () => {
   return (
@@ -20,6 +21,9 @@ const Navbar = () => {
             </Link>
           </li>
         </ul>
+        <div>
+          <ThemeSwitch></ThemeSwitch>
+        </div>
       </header>
     </nav>
   );
